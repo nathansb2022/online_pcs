@@ -1,4 +1,4 @@
-# Take a list of pcs and find out which ones are online in AD environment
+# Take a list of pcs and find out which ones are online
 
 #Please add login ID # below in $admin variable i.e. 0123456789 and review next comment.
 

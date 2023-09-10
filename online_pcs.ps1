@@ -4,7 +4,8 @@
 
 $admin = '0123456789'
 
-#Please make sure to run the script from directory that the updatedpcs.txt is stored.
+#Please make sure to run the script from directory that the updatedpcs.txt is stored or the name of the
+#text file that has your pcs.
 
 $computers = gc .\updatedpcs.txt;
 
